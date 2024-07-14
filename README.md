@@ -35,3 +35,6 @@
 - フロントエンド：HTML、CSS
 - データベース：PostgreSQL
 - デプロイ先：Heroku
+
+### ER図
+![ER Diagram](./er_diagram.png)
